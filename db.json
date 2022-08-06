@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Preparar el almuerzo",
+      "day": "Agosto 5 a las 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Revisar horarios de clase",
+      "day": "Agosto 6 a las 5:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Completar mi primera app en Angular",
+      "day": "Agosto 7 a las 9:30pm",
+      "reminder": false
+    }
+  ]
+}
