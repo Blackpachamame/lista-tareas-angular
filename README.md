@@ -1,10 +1,8 @@
-# Lista de Tareas
+# ¡Nuestra primera App con Angular!
 
-## ¡Nuestra primera App con Angular!
+Vamos a poner en práctica gran parte de la teoría haciendo nuestra primera SPA con Angular: Una **lista de tareas** como la que se ve a continuación
 
-Vamos a poner en práctica gran parte de la teoría haciendo nuestra primera SPA con Angular: Una lista de tareas como la que se ve a continuación
-
-<img src="https://argentinaprograma.inti.gob.ar/pluginfile.php/127837/mod_page/content/17/Demo%20Tutorial%20Lista%20de%20Tareas.png"></img>
+![demo tutorial task list](src\assets\img\Demo-Tutorial-TaskList.png)
 
 En este tutorial repasaremos los siguientes conceptos:
 
