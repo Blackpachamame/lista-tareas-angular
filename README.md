@@ -1,28 +1,39 @@
-# ListaTareas
+# Lista de Tareas
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+## ¡Nuestra primera App con Angular!
 
-## Development server
+Vamos a poner en práctica gran parte de la teoría haciendo nuestra primera SPA con Angular: Una lista de tareas como la que se ve a continuación
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<img src="https://argentinaprograma.inti.gob.ar/pluginfile.php/127837/mod_page/content/17/Demo%20Tutorial%20Lista%20de%20Tareas.png"></img>
 
-## Code scaffolding
+En este tutorial repasaremos los siguientes conceptos:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. Modulos
+2. Componentes
+3. Componente hijos
+4. Style
+5. Servicios
+6. Routing
+7. Binding
 
-## Build
+### Detalles corregidos del tutorial
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Modificar en `styles.css` (css global)
 
-## Running unit tests
+```
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap");
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+body {
+  font-family: "Poppins", sans-serif;
+}
+```
 
-## Running end-to-end tests
+Modificar en `task-item.component.ts`
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```
+@Input() task!: Task;
+```
 
-## Further help
+### Recursos útiles
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# lista-tareas-angular
+- [Traversy Media](https://www.youtube.com/watch?v=3dHNOWTI7H8) - Angular Crash Course.
