@@ -4,7 +4,7 @@ Vamos a poner en práctica gran parte de la teoría haciendo nuestra primera SPA
 
 ![demo tutorial task list](src/assets/img/Demo-Tutorial-TaskList.png)
 
-En este tutorial repasaremos los siguientes conceptos:
+# Repasaremos los siguientes conceptos
 
 1. Modulos
 2. Componentes
@@ -14,7 +14,7 @@ En este tutorial repasaremos los siguientes conceptos:
 6. Routing
 7. Binding
 
-### Detalles corregidos del tutorial
+### Detalles a corregir del tutorial
 
 Modificar en `styles.css` (css global)
 
