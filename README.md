@@ -2,7 +2,7 @@
 
 Vamos a poner en práctica gran parte de la teoría haciendo nuestra primera SPA con Angular: Una **lista de tareas** como la que se ve a continuación
 
-![demo tutorial task list](src\assets\img\Demo-Tutorial-TaskList.png)
+![demo tutorial task list](src/assets/img/Demo-Tutorial-TaskList.png)
 
 En este tutorial repasaremos los siguientes conceptos:
 
