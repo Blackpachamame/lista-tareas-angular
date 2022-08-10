@@ -2,11 +2,9 @@
 
 Este es un proyecto propuesto por el curso de **Argentina Programa** para poner en práctica gran parte de la teoría del módulo 3 (Desarrollo Front End Dinámico), haciendo nuestra primera SPA con Angular: Una **lista de tareas**. Incluye Angular ui y el JSON-server para nuestro backend simulado.
 
-## Demo
+### Demo
 
 ![demo tutorial task list](src/assets/img/Demo-Tutorial-TaskList.png)
-
-Este proyecto propuesto por el curso de Argentina Programa
 
 ## Repasaremos los siguientes conceptos
 
