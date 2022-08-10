@@ -12,12 +12,12 @@ body {
 }
 
 .container {
-  /* background-color: #151724; */
   max-width: 500px;
   margin: 30px auto;
   overflow: auto;
   min-height: 300px;
-  border: 2px solid steelblue;
+  border-bottom: 2px solid #3f51b5;
+  border-top: 2px solid #3f51b5;
   padding: 30px;
   border-radius: 5px;
   -webkit-box-shadow: 0px 10px 13px -7px #000000,
@@ -68,7 +68,7 @@ body {
   margin: 5px 0;
   padding: 3px 7px;
   font-size: 15px;
-  border: 2px solid steelblue;
+  border: 2px solid #3f51b5;
   border-radius: 5px;
 }
 
@@ -90,4 +90,17 @@ body {
 
 input[type="submit"] {
   border: none;
+}
+
+/* ENLACES */
+a {
+  color: #3f51b5;
+}
+
+a:hover {
+  color: #293785;
+}
+
+a:visited {
+  color: #613297;
 }
